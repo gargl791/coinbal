@@ -1,0 +1,36 @@
+# Node modules
+node_modules/
+
+# TypeScript output directory
+dist/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# npm debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# IDE or editor files
+.vscode/
+.idea/
+.zed/
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Optional: Add this if you're using coverage tools like Istanbul or NYC
+coverage/
+
+# Optional: Add this if you're using Docker
+docker-compose.override.yml
