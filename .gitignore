@@ -1,0 +1,80 @@
+# Operating System Files
+
+.DS_Store
+
+Thumbs.db
+
+
+# IDE/Editor Files
+
+.vscode/
+
+*.suo
+
+*.user
+
+*.sln.docstates
+
+
+# Build Artifacts
+
+*.class
+
+*.pyc
+
+*.o
+
+*.so
+
+*.dll
+
+*.exe
+
+*.a
+
+*.lib
+
+
+# Log Files
+
+*.log
+
+
+# IDE/Editor Backups
+
+*~
+
+
+# Temporary Files
+
+*.tmp
+
+*.swp
+
+
+# Virtual Environments (if managed separately)
+
+venv/
+
+virtualenv/
+
+
+# Sensitive Data
+
+.env 
+
+secrets.yml
+
+config.local.yml
+
+
+# Large Files (example)
+
+data/
+
+logs/
+
+
+# Specific to your project (add as needed)
+
+# ...
